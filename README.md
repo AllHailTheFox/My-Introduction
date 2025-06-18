@@ -11,6 +11,8 @@ I'm proficient in:
 - **Excel & VBA** – from dashboards to automation
 - **Power BI** – building insightful, interactive reports
 - **SQL** – extracting and transforming data efficiently
+- **Python** – data wrangling and cleaning and ETL
+- **LLM** - automation and intergration into real world applications
 
 ---
 
