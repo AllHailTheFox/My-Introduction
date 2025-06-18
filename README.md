@@ -12,6 +12,7 @@ I'm proficient in:
 - **Power BI** – building insightful, interactive reports
 - **SQL** – extracting and transforming data efficiently
 - **Python** – data wrangling and cleaning and ETL
+- **Pythorch & TensorFlow** - Machine learning models
 - **LLM** - automation and intergration into real world applications
 
 ---
